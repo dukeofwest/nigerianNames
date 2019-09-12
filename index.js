@@ -1,4 +1,8 @@
-var names = ["Obi", "Onyeka", "Ovie", "Ugo", "Onome", "Ighomena", "Emuejevoke", "Ochuko", "Femi", "Niyi", "Oyeleke", "Okoro", "Rukevwe", "Temisan", "Afoke", "Edafe", "Ufuoma", "Ediri", "Osas", "Onioriode", "Abiola", "Ese", "Efe"];
+var names = ["Obi", "Onyeka", "Ovie", "Ugo", "Onome", "Ighomena",
+    "Emuejevoke", "Ochuko", "Femi", "Niyi", "Oyeleke", "Okoro", "Rukevwe",
+    "Temisan", "Afoke", "Edafe", "Ufuoma", "Ediri", "Osas", "Onioriode",
+    "Abiola", "Ese", "Efe", "Bolaji", "Chinedu", "Yemisi"
+];
 
 var NigerianNames = randomNigerianNames(names);
 
